@@ -2,10 +2,24 @@
 <br>
 
 ## (1) Image
-> <img style="width:300px; height:600px;" src="https://github.com/rhkddud0310/My-favourite-places-to-eat/assets/151594635/cb17f184-9597-4e2b-ac49-4e369e7367cf" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-> <img style="width:300px; height:600px;" src="https://github.com/rhkddud0310/My-favourite-places-to-eat/assets/151594635/8a185b0d-1fc3-4040-af69-61ee6d61579a" /><br><br>
-> <img style="width:300px; height:600px;" src="https://github.com/rhkddud0310/My-favourite-places-to-eat/assets/151594635/de5c7f38-51a6-4dc2-b536-1eebb9f92b97" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-> <img style="width:300px; height:600px;" src="https://github.com/rhkddud0310/My-favourite-places-to-eat/assets/151594635/4eb9aa39-2e37-4734-be95-ad9469adf3a4" />
+### 1) 맛집 List
+> <img style="width:300px; height:600px;" src="https://github.com/rhkddud0310/my_favourite_eat_place_app/assets/151594635/d29a5c9b-6734-46e6-b0f5-ef027dd9be6c.png" />
+<br>
+
+### 2) 맛집 List 추가
+> <img style="width:300px; height:600px;" src="https://github.com/rhkddud0310/my_favourite_eat_place_app/assets/151594635/7d171512-0ae8-4961-90f8-b53a89ba38c7.png" />
+<br>
+
+### 3) 맛집 List 수정
+> <img style="width:300px; height:600px;" src="https://github.com/rhkddud0310/my_favourite_eat_place_app/assets/151594635/86eaf3f4-bbfc-439d-aacd-b748e82fbb1d.png" />
+<br>
+
+### 4) 맛집 List 삭제
+> <img style="width:300px; height:600px;" src="https://github.com/rhkddud0310/my_favourite_eat_place_app/assets/151594635/0adde00a-33e6-47bd-ad34-8fde3b1288d0.png" />
+<br>
+
+### 5) 맛집 위치 정보
+> <img style="width:300px; height:600px;" src="https://github.com/rhkddud0310/my_favourite_eat_place_app/assets/151594635/8653c1c5-c60a-4294-9008-6c5483d075aa.png" />
 <br>
 
 ## (2) Database Type
